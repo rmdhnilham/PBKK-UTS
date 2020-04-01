@@ -56,7 +56,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo date('Y');?> by Mahakarya Promosindo</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo '2020';?> by Ramadhan Ilham Irfany</p>
                 </div>
             </div>
             <!-- /.row -->
